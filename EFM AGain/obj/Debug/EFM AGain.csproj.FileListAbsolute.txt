@@ -1,0 +1,40 @@
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\EFM AGain.exe.config
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\EFM AGain.exe
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\EFM AGain.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM AGain.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM_AGain.Gestion_Medecin.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM_AGain.Properties.Resources.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM AGain.csproj.GenerateResource.cache
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM AGain.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM AGain.exe
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM AGain.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM_AGain.Form1.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM_AGain.Recherche_Medecin.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM_AGain.Gestion_Operation.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\stdole.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM_AGain.Liste_Operation.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM AGain.csproj.CopyComplete
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM_AGain.Operation_Par_Client_Etat.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\EFM AGain.exe.manifest
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\bin\Debug\EFM AGain.application
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM AGain.TrustInfo.xml
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM AGain.exe.manifest
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\EFM\EFM AGain\EFM AGain\obj\Debug\EFM AGain.application
